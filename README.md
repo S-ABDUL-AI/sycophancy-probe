@@ -87,8 +87,8 @@ python analysis.py
 - **Scoring:** Automated keyword matching + hedge phrase detection
 - **Confidence intervals:** Wilson score interval (robust near 0 and 1)
 - **Statistical test:** Pearson chi-square, soft vs. confident conditions
-- **Model:** claude-3-5-haiku-20241022 (fast, reproducible, cost-efficient for evals)
-- **Temperature:** 0.3 (low variance for reliable measurement)
+- **Model:** claude-haiku-5-5 (fast, reproducible, cost-efficient for evals)
+
 
 ---
 
