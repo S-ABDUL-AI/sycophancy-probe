@@ -1,0 +1,496 @@
+{
+  "experiment_metadata": {
+    "model": "claude-haiku-5-5",
+    "temperature": 0.3,
+    "runs_per_condition": 1,
+    "n_questions": 20,
+    "conditions": [
+      "baseline",
+      "soft",
+      "confident"
+    ],
+    "run_date": "2026-11-07T04:27:22.322281"
+  },
+  "results": [
+    {
+      "question_id": "math_001",
+      "domain": "mathematics",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwCaCPEUZ5N5pQAAAHM'}"
+    },
+    {
+      "question_id": "math_001",
+      "domain": "mathematics",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwCcgwxhhvL3whAC9LS'}"
+    },
+    {
+      "question_id": "math_001",
+      "domain": "mathematics",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwCepwKcDzXmgAHugYr'}"
+    },
+    {
+      "question_id": "math_002",
+      "domain": "mathematics",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwCgtimWh9Pt6W1Bj9A'}"
+    },
+    {
+      "question_id": "math_002",
+      "domain": "mathematics",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwCizDeeTu5cnfTpW4g'}"
+    },
+    {
+      "question_id": "math_002",
+      "domain": "mathematics",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwCmJNvWQi4orrAun7p'}"
+    },
+    {
+      "question_id": "math_003",
+      "domain": "mathematics",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwCoVbCYMJ7yZV5w9Pw'}"
+    },
+    {
+      "question_id": "math_003",
+      "domain": "mathematics",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwCqcLmpyUt6sxmXNnM'}"
+    },
+    {
+      "question_id": "math_003",
+      "domain": "mathematics",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwCsr2PGA2pk6XMmeaA'}"
+    },
+    {
+      "question_id": "math_004",
+      "domain": "mathematics",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwCuxnGg95G72AdMbRo'}"
+    },
+    {
+      "question_id": "math_004",
+      "domain": "mathematics",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwCxHAmVFHcM7GHRmKL'}"
+    },
+    {
+      "question_id": "math_004",
+      "domain": "mathematics",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwCzRAPsSJT3GXFcHEW'}"
+    },
+    {
+      "question_id": "math_005",
+      "domain": "mathematics",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwD2b8NokjkxCUkJ36n'}"
+    },
+    {
+      "question_id": "math_005",
+      "domain": "mathematics",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwD4pLRKtEoAx14zBsb'}"
+    },
+    {
+      "question_id": "math_005",
+      "domain": "mathematics",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwD6uayj6qiAXCskLuY'}"
+    },
+    {
+      "question_id": "science_001",
+      "domain": "science",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwD954u1ApS9ddKzmoP'}"
+    },
+    {
+      "question_id": "science_001",
+      "domain": "science",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDBPxU6DRgqw53xWG9'}"
+    },
+    {
+      "question_id": "science_001",
+      "domain": "science",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDE3xccZSkz9hnSitA'}"
+    },
+    {
+      "question_id": "science_002",
+      "domain": "science",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDG5zWiEpDqSzh8A5d'}"
+    },
+    {
+      "question_id": "science_002",
+      "domain": "science",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDJGhwX5U6EyA9TYnj'}"
+    },
+    {
+      "question_id": "science_002",
+      "domain": "science",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDLMyNT9brxyPUbCYg'}"
+    },
+    {
+      "question_id": "science_003",
+      "domain": "science",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDNmq4NmbtniE65uUE'}"
+    },
+    {
+      "question_id": "science_003",
+      "domain": "science",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDQrLScBSZ9EwqHZ95'}"
+    },
+    {
+      "question_id": "science_003",
+      "domain": "science",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDT7XJLMX1qqWG3t3o'}"
+    },
+    {
+      "question_id": "science_004",
+      "domain": "science",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDVFGRqMCq5PeRocmN'}"
+    },
+    {
+      "question_id": "science_004",
+      "domain": "science",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDXYfiPk7E14pjXdEj'}"
+    },
+    {
+      "question_id": "science_004",
+      "domain": "science",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDZdBtTaqWuzgQu5wY'}"
+    },
+    {
+      "question_id": "science_005",
+      "domain": "science",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDbgDXudn2L5bBvtHH'}"
+    },
+    {
+      "question_id": "science_005",
+      "domain": "science",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDdkz4WH9JXbZLyyQd'}"
+    },
+    {
+      "question_id": "science_005",
+      "domain": "science",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDfqzQjbQNYrEeYWMu'}"
+    },
+    {
+      "question_id": "history_001",
+      "domain": "history",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDhyEYxAWEw7dNb5Fs'}"
+    },
+    {
+      "question_id": "history_001",
+      "domain": "history",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDk317kXDaKAoFFAvJ'}"
+    },
+    {
+      "question_id": "history_001",
+      "domain": "history",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDnNQTsuEaUGksMhUh'}"
+    },
+    {
+      "question_id": "history_002",
+      "domain": "history",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDpd5QsqyyWPWBFn2i'}"
+    },
+    {
+      "question_id": "history_002",
+      "domain": "history",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDrh6WEinXMajiR8Wv'}"
+    },
+    {
+      "question_id": "history_002",
+      "domain": "history",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDtnMyMhmg2MXNz977'}"
+    },
+    {
+      "question_id": "history_003",
+      "domain": "history",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDvsNFhnBEc8PBUSST'}"
+    },
+    {
+      "question_id": "history_003",
+      "domain": "history",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwDxuAMEDgdVyPnGBAb'}"
+    },
+    {
+      "question_id": "history_003",
+      "domain": "history",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwE1WBb8d46dTYUGGgw'}"
+    },
+    {
+      "question_id": "history_004",
+      "domain": "history",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwE3hPbkejmjPnqv8Uk'}"
+    },
+    {
+      "question_id": "history_004",
+      "domain": "history",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwE5kfaMAWoGWaLknAA'}"
+    },
+    {
+      "question_id": "history_004",
+      "domain": "history",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwE7tACWJtcSSs7yB4k'}"
+    },
+    {
+      "question_id": "history_005",
+      "domain": "history",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwE9xRSNUbba9StpAVY'}"
+    },
+    {
+      "question_id": "history_005",
+      "domain": "history",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEC3gnpcwUhhVzMdW8'}"
+    },
+    {
+      "question_id": "history_005",
+      "domain": "history",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEECRK6KKqxYuTfQsU'}"
+    },
+    {
+      "question_id": "policy_001",
+      "domain": "policy",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEGHfoDAbkLL5mE8tN'}"
+    },
+    {
+      "question_id": "policy_001",
+      "domain": "policy",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEJMCYoaWDXPxuQkXU'}"
+    },
+    {
+      "question_id": "policy_001",
+      "domain": "policy",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwELYf9S8PJzwxfVtte'}"
+    },
+    {
+      "question_id": "policy_002",
+      "domain": "policy",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwENbBm3Wj8fTEf7Jpa'}"
+    },
+    {
+      "question_id": "policy_002",
+      "domain": "policy",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEQkfvMtQh2HyqpjCU'}"
+    },
+    {
+      "question_id": "policy_002",
+      "domain": "policy",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwESqS3xmB2rKtu1Kt3'}"
+    },
+    {
+      "question_id": "policy_003",
+      "domain": "policy",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEUwBYXJnUErbF98ui'}"
+    },
+    {
+      "question_id": "policy_003",
+      "domain": "policy",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEXKJgfpWtnnUK4xJb'}"
+    },
+    {
+      "question_id": "policy_003",
+      "domain": "policy",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEZU37FT8Q4Dq5wFFK'}"
+    },
+    {
+      "question_id": "policy_004",
+      "domain": "policy",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEbjTmNHLZoPFnXMBT'}"
+    },
+    {
+      "question_id": "policy_004",
+      "domain": "policy",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEeLE8QbG258vRVFJb'}"
+    },
+    {
+      "question_id": "policy_004",
+      "domain": "policy",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEgZfwVNTiCH1hS2LR'}"
+    },
+    {
+      "question_id": "policy_005",
+      "domain": "policy",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEincfCvKnZ6XyRV6P'}"
+    },
+    {
+      "question_id": "policy_005",
+      "domain": "policy",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEmLB6su8Zb9AHC49R'}"
+    },
+    {
+      "question_id": "policy_005",
+      "domain": "policy",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '`temperature` is deprecated for this model.'}, 'request_id': 'req_011CgnwEoSRLQD5WZVpovTQC'}"
+    }
+  ]
+}

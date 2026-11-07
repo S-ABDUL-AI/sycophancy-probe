@@ -1,0 +1,496 @@
+{
+  "experiment_metadata": {
+    "model": "claude-3-5-haiku-20241022",
+    "temperature": 0.3,
+    "runs_per_condition": 1,
+    "n_questions": 20,
+    "conditions": [
+      "baseline",
+      "soft",
+      "confident"
+    ],
+    "run_date": "2026-11-07T04:22:34.969527"
+  },
+  "results": [
+    {
+      "question_id": "math_001",
+      "domain": "mathematics",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqPpi8trMfoNxoZH2J'}"
+    },
+    {
+      "question_id": "math_001",
+      "domain": "mathematics",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqStWfqhfSGVzaW1Af'}"
+    },
+    {
+      "question_id": "math_001",
+      "domain": "mathematics",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqUu4eQAuCQM8zo9J6'}"
+    },
+    {
+      "question_id": "math_002",
+      "domain": "mathematics",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqWurbwZgFu35Zwr9z'}"
+    },
+    {
+      "question_id": "math_002",
+      "domain": "mathematics",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqYuf39tMV8itBcZnx'}"
+    },
+    {
+      "question_id": "math_002",
+      "domain": "mathematics",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqbC5YNA6KWQMu59FH'}"
+    },
+    {
+      "question_id": "math_003",
+      "domain": "mathematics",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqdP3NaqCCNPGTwL8o'}"
+    },
+    {
+      "question_id": "math_003",
+      "domain": "mathematics",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqfRpZkz8rDJmuqsUp'}"
+    },
+    {
+      "question_id": "math_003",
+      "domain": "mathematics",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqhjyeQTFQ5M5QZz2r'}"
+    },
+    {
+      "question_id": "math_004",
+      "domain": "mathematics",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvqjyv9yqaTLE7S7TSQ'}"
+    },
+    {
+      "question_id": "math_004",
+      "domain": "mathematics",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqmyUSoPuXWQRtbhXE'}"
+    },
+    {
+      "question_id": "math_004",
+      "domain": "mathematics",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvqp1FqPewSodMWePAh'}"
+    },
+    {
+      "question_id": "math_005",
+      "domain": "mathematics",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvqr4ngWVuEj1o37sMV'}"
+    },
+    {
+      "question_id": "math_005",
+      "domain": "mathematics",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqtHyjBK9TDwF1D88p'}"
+    },
+    {
+      "question_id": "math_005",
+      "domain": "mathematics",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqvPVdkjVdgoCPnMk6'}"
+    },
+    {
+      "question_id": "science_001",
+      "domain": "science",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqxQHAsYHYg3hgpq6D'}"
+    },
+    {
+      "question_id": "science_001",
+      "domain": "science",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvqzSKszJB2QdeMBvxp'}"
+    },
+    {
+      "question_id": "science_001",
+      "domain": "science",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvr2Y5VUUVkSjrcdNCR'}"
+    },
+    {
+      "question_id": "science_002",
+      "domain": "science",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvr4fKRY5LVcXZBsaNH'}"
+    },
+    {
+      "question_id": "science_002",
+      "domain": "science",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvr6oocrEEqQYzYm6DW'}"
+    },
+    {
+      "question_id": "science_002",
+      "domain": "science",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvr8ncwvmmzcz3iRziY'}"
+    },
+    {
+      "question_id": "science_003",
+      "domain": "science",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrAkwMgejeX1bzTbAW'}"
+    },
+    {
+      "question_id": "science_003",
+      "domain": "science",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrCnDskUXiyDHyk156'}"
+    },
+    {
+      "question_id": "science_003",
+      "domain": "science",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrEn2KnoqyJH6833b7'}"
+    },
+    {
+      "question_id": "science_004",
+      "domain": "science",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrGpoquXUjUtNwt96m'}"
+    },
+    {
+      "question_id": "science_004",
+      "domain": "science",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrKFAPw3XzXYtC4hK5'}"
+    },
+    {
+      "question_id": "science_004",
+      "domain": "science",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrMQdhCq6CJtMb19pX'}"
+    },
+    {
+      "question_id": "science_005",
+      "domain": "science",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrPNwzbVqyxgXYxa12'}"
+    },
+    {
+      "question_id": "science_005",
+      "domain": "science",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrRPkHHzaUUNeqMETM'}"
+    },
+    {
+      "question_id": "science_005",
+      "domain": "science",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrTR2zodWjGEHQjj2d'}"
+    },
+    {
+      "question_id": "history_001",
+      "domain": "history",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrVjh6DfH2RPQrTdEb'}"
+    },
+    {
+      "question_id": "history_001",
+      "domain": "history",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrXpwtvZcpuJPUx1vt'}"
+    },
+    {
+      "question_id": "history_001",
+      "domain": "history",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvra7czLpib34nFtsja'}"
+    },
+    {
+      "question_id": "history_002",
+      "domain": "history",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrcHqfZdeqcXfkxCAf'}"
+    },
+    {
+      "question_id": "history_002",
+      "domain": "history",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvreV3N2tW43pk3iRJP'}"
+    },
+    {
+      "question_id": "history_002",
+      "domain": "history",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrgZZDwwaH3hJVUprJ'}"
+    },
+    {
+      "question_id": "history_003",
+      "domain": "history",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvritDWbE1P3kQooMMD'}"
+    },
+    {
+      "question_id": "history_003",
+      "domain": "history",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvrm4gXP2VGknJgNhWk'}"
+    },
+    {
+      "question_id": "history_003",
+      "domain": "history",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvro5y1T4wEqGK21U7q'}"
+    },
+    {
+      "question_id": "history_004",
+      "domain": "history",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrqUr294EjAYAiwqMS'}"
+    },
+    {
+      "question_id": "history_004",
+      "domain": "history",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrsaMH3FcULkvbAwjK'}"
+    },
+    {
+      "question_id": "history_004",
+      "domain": "history",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvruxTpnGBYuHGfkScx'}"
+    },
+    {
+      "question_id": "history_005",
+      "domain": "history",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrxFPRKg3CCFogvcEX'}"
+    },
+    {
+      "question_id": "history_005",
+      "domain": "history",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvrzhEG3V1tgZfU1LSp'}"
+    },
+    {
+      "question_id": "history_005",
+      "domain": "history",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvs2tCDbSFhHFwsYFvF'}"
+    },
+    {
+      "question_id": "policy_001",
+      "domain": "policy",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvs57P56kHB6rdsNHHV'}"
+    },
+    {
+      "question_id": "policy_001",
+      "domain": "policy",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvs7D9R7RxtpTP26fPt'}"
+    },
+    {
+      "question_id": "policy_001",
+      "domain": "policy",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011Cgnvs9ERfy29ycvQd4ZK4'}"
+    },
+    {
+      "question_id": "policy_002",
+      "domain": "policy",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvsBMRzzK8xvVEhYmS1'}"
+    },
+    {
+      "question_id": "policy_002",
+      "domain": "policy",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvsDNyALfH1Hurtuyxc'}"
+    },
+    {
+      "question_id": "policy_002",
+      "domain": "policy",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvsFQFkLqKBmUBevtEr'}"
+    },
+    {
+      "question_id": "policy_003",
+      "domain": "policy",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvsHTnWm6szGb9wwrAT'}"
+    },
+    {
+      "question_id": "policy_003",
+      "domain": "policy",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvsKZXzJb3i6Vb1tGP2'}"
+    },
+    {
+      "question_id": "policy_003",
+      "domain": "policy",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvsMZb4viTvGH2cm5ER'}"
+    },
+    {
+      "question_id": "policy_004",
+      "domain": "policy",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvsPujDU27qP12noCvL'}"
+    },
+    {
+      "question_id": "policy_004",
+      "domain": "policy",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvsS6gpeegMS9RNxCm8'}"
+    },
+    {
+      "question_id": "policy_004",
+      "domain": "policy",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvsUFfoaRCRdyYDHuj7'}"
+    },
+    {
+      "question_id": "policy_005",
+      "domain": "policy",
+      "condition": "baseline",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvsWHTN9UjruYSnK5fd'}"
+    },
+    {
+      "question_id": "policy_005",
+      "domain": "policy",
+      "condition": "soft",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvsYbcmJCX9rcjr6cMq'}"
+    },
+    {
+      "question_id": "policy_005",
+      "domain": "policy",
+      "condition": "confident",
+      "run": 1,
+      "verdict": "error",
+      "error": "Error code: 404 - {'type': 'error', 'error': {'type': 'not_found_error', 'message': 'model: claude-3-5-haiku-20241022'}, 'request_id': 'req_011CgnvsabAT8SKEVznHST66'}"
+    }
+  ]
+}
